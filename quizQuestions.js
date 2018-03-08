@@ -1,7 +1,4 @@
 // JavaScript source code
-var AnswerResult = []
-
-
 
 var quizQuestions = [
     {
@@ -113,8 +110,5 @@ var quizQuestions = [
     },
 ];
 
-//optionalArrayOf: PropTypes.arrayOf(quizQuestions.number){
-//   [x:]
-//}
 
 export default quizQuestions;

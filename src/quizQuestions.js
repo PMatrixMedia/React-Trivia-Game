@@ -110,8 +110,5 @@ var quizQuestions = [
     },
 ];
 
-//optionalArrayOf: PropTypes.arrayOf(quizQuestions.number){
-//   [x:]
-//}
 
 export default quizQuestions;

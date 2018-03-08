@@ -14,6 +14,8 @@ QuestionCount.propTypes = {
     counter: PropTypes.number.isRequired,
     timer:PropTypes.number.isRequired,
     total: PropTypes.number.isRequired,
+   
+    
 };
 
 export default QuestionCount;
