@@ -1,0 +1,19 @@
+﻿body
+{
+    background-color: black;
+    
+}
+.jumbotron {
+    background-image: url(dragon.png);
+    background-color: orange;
+    border-bottom: 5px solid navy;
+    color: navy;
+    font-weight: bold;
+    font-family: 'Bangers', cursive;
+}
+.display-4
+{
+    
+    margin-left: 250px;
+    
+}
